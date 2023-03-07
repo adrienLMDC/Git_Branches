@@ -64,3 +64,5 @@ pick a5f4a0d Add cat-file
 # Note that empty commits are commented out
 ```
 It’s important to note that these commits are listed in the opposite order than you normally see them using the log command. If you run a log, you see something like this:
+
+adrien
